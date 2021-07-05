@@ -1,2 +1,1 @@
-# goit-react-hw-04-movies
-html css js react
+# react-friday-prictice
