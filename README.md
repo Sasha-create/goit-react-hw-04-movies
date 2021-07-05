@@ -1,1 +1,1 @@
-# react-friday-prictice
+# the project loaded on netlify app
